@@ -12,3 +12,4 @@ This repository is a collection of my solutions to a number of Kattis problems.
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) |  Easy (1.4) 🟢    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/poker-hand/Main.java) | 
 | [Simon Says](https://open.kattis.com/problems/simonsays) |  Easy (1.4) 🟢    | [Python](https://github.com/marelpett/kattis-solutions/tree/main/solutions/simonsays/main.py) | 
 | [Speeding](https://open.kattis.com/problems/speeding) |  Easy (1.5) 🟢    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/speeding/Main.java) | 
+| [Variable Names](https://open.kattis.com/problems/variabelnamn) |  Medium (3.7) 🟡    | [Python](https://github.com/marelpett/kattis-solutions/tree/main/solutions/variabel_names/main.py) | 
