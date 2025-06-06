@@ -10,4 +10,5 @@ This repository is a collection of my solutions to a number of Kattis problems.
 | [Parking](https://open.kattis.com/problems/parking2) |  Easy (1.7) 🟢    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/parking/Main.java) [Python](https://github.com/marelpett/kattis-solutions/tree/main/solutions/parking/Main.py) | 
 | [Phonelist](https://open.kattis.com/problems/phonelist) |  Medium (3.1) 🟡    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/phonelist/Main.java) | 
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) |  Easy (1.4) 🟢    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/poker-hand/Main.java) | 
+| [Simon Says](https://open.kattis.com/problems/simonsays) |  Easy (1.4) 🟢    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/simonsays/Main.py) | 
 | [Speeding](https://open.kattis.com/problems/speeding) |  Easy (1.5) 🟢    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/speeding/Main.java) | 
