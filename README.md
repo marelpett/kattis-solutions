@@ -5,7 +5,8 @@ This repository is a collection of my solutions to a number of Kattis problems.
 |  Problem | Difficulty | Language |
 | -------- |  --------  | -------- |
 | [ABC](https://open.kattis.com/problems/abc) |  Easy (1.9) 🟢    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/abc/Main.java) |
-| [Awkward Party](https://open.kattis.com/problems/awkwardparty) |  Easy (2.4) 🟢    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/awkwardparty/Main.java) | 
+| [Awkward Party](https://open.kattis.com/problems/awkwardparty) |  Easy (2.4) 🟢    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/awkwardparty/Main.java) |
+| [Horror Film Night](https://open.kattis.com/problems/horrorfilmnight) |  Medium (3.4) 🟡    | [Python](https://github.com/marelpett/kattis-solutions/tree/main/solutions/horrorfilmnight/main.py) |  
 | [CD](https://open.kattis.com/problems/cd) |  Easy (3.9) 🟡    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/cd/Main.java) | 
 | [Parking](https://open.kattis.com/problems/parking2) |  Easy (1.7) 🟢    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/parking/Main.java) [Python](https://github.com/marelpett/kattis-solutions/tree/main/solutions/parking/Main.py) | 
 | [Phonelist](https://open.kattis.com/problems/phonelist) |  Medium (3.1) 🟡    | [Java](https://github.com/marelpett/kattis-solutions/tree/main/solutions/phonelist/Main.java) | 
